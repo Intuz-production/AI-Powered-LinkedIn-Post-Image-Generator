@@ -71,7 +71,4 @@ To use this workflow template, you will need:
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
 * **LinkedIn:** https://www.linkedin.com/company/intuz
 * **Get Started:** https://n8n.partnerlinks.io/intuz
-
-## For Custom Workflow Automation
-
-Click here - [Get Started](https://www.intuz.com/get-started/)
+* **For Custom Workflow Automation:** https://www.intuz.com/get-started/
