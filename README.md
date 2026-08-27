@@ -67,8 +67,8 @@ To use this workflow template, you will need:
 
 ## Connect with us
 
-* **Website:** https://www.intuz.com/n8n-workflow-automation-templates
+* **Website:** https://www.intuz.com/n8n-workflow-automation-templates/
 * **Email:** [getstarted@intuz.com](mailto:getstarted@intuz.com)
-* **LinkedIn:** https://www.linkedin.com/company/intuz
+* **LinkedIn:** https://www.linkedin.com/company/intuz/
 * **Get Started:** https://n8n.partnerlinks.io/intuz
 * **For Custom Workflow Automation:** https://www.intuz.com/get-started/
